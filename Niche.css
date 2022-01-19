@@ -1,0 +1,73 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/RavenCrag_26_January052022.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1043px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  background-image: none;
+  font-weight: 200;
+  width: 262px;
+  margin: 391px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  letter-spacing: 6px;
+  margin: 29px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  letter-spacing: 4px;
+  text-transform: none;
+  font-weight: normal;
+  margin: 43px auto 60px;
+  padding: 10px 16px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 860px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 288px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 659px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 190px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: 122px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    width: 131px;
+    margin-top: 182px;
+  }
+}
